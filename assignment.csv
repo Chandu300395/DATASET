@@ -1,0 +1,6 @@
+﻿Employee_ID,Name,Age,Department,Salary ($),Joining_Date,Performance_Score,Promotions,Remarks
+101,John Doe,35,Sales,75000,10/08/15,8,2,Excellent
+102,Jane Smith,-,Marketing,65000,15/03/18,7,1,-
+103,Michael Lee,29,Sales,60000,20/07/20,5,0,Average
+104,Sarah Kim,45,-,90000,28/02/10,9,3,Excellent
+105,-,50,Operations,-,22/05/08,7,1,Good
